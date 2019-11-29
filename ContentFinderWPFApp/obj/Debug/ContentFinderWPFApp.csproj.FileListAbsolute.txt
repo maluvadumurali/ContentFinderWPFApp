@@ -1,0 +1,64 @@
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.csprojResolveAssemblyReference.cache
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\MainWindow.g.cs
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\App.g.cs
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp_MarkupCompile.cache
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp_MarkupCompile.lref
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\bin\Debug\ContentFinderWPFApp.exe.config
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\bin\Debug\ContentFinderWPFApp.exe
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\bin\Debug\ContentFinderWPFApp.pdb
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\MainWindow.baml
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.g.resources
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.Properties.Resources.resources
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.csproj.GenerateResource.Cache
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.exe
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.pdb
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\bin\Debug\BasicFormatsForCore.dll
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\bin\Debug\FiddlerCore4.dll
+c:\users\ibm_admin\documents\visual studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\bin\Debug\FiddlerCore4.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.csproj.ResolveComReference.cache
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\bin\Debug\makecert.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2017\Projects\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp_Content.g.cs
+C:\ContentFinderWPFApp\ContentFinderWPFApp\bin\Debug\ContentFinderWPFApp.exe.config
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.csproj.ResolveComReference.cache
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.exe
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.pdb
+C:\ContentFinderWPFApp\ContentFinderWPFApp\bin\Debug\makecert.exe
+C:\ContentFinderWPFApp\ContentFinderWPFApp\bin\Debug\ContentFinderWPFApp.exe
+C:\ContentFinderWPFApp\ContentFinderWPFApp\bin\Debug\ContentFinderWPFApp.pdb
+C:\ContentFinderWPFApp\ContentFinderWPFApp\bin\Debug\BasicFormatsForCore.dll
+C:\ContentFinderWPFApp\ContentFinderWPFApp\bin\Debug\FiddlerCore4.dll
+C:\ContentFinderWPFApp\ContentFinderWPFApp\bin\Debug\FiddlerCore4.xml
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\MainWindow.g.cs
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\App.g.cs
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp_Content.g.cs
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp_MarkupCompile.cache
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp_MarkupCompile.lref
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\MainWindow.baml
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.g.resources
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.Properties.Resources.resources
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.csproj.GenerateResource.Cache
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\bin\Debug\makecert.exe
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\bin\Debug\ContentFinderWPFApp.exe.config
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\bin\Debug\ContentFinderWPFApp.exe
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\bin\Debug\ContentFinderWPFApp.pdb
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\bin\Debug\BasicFormatsForCore.dll
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\bin\Debug\FiddlerCore4.dll
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\bin\Debug\FiddlerCore4.xml
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.csprojAssemblyReference.cache
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.csproj.ResolveComReference.cache
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\App.g.cs
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp_Content.g.cs
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp_MarkupCompile.cache
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp_MarkupCompile.lref
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\MainWindow.baml
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.g.resources
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.Properties.Resources.resources
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.csproj.GenerateResource.cache
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.csproj.CopyComplete
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.exe
+C:\Users\MuraliKrishnamoorthy\Downloads\contentfinder-master\contentfinder-master\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.pdb
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.csprojAssemblyReference.cache
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.csproj.CoreCompileInputs.cache
+C:\ContentFinderWPFApp\ContentFinderWPFApp\obj\Debug\ContentFinderWPFApp.csproj.CopyComplete

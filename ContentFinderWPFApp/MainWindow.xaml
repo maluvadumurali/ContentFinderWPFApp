@@ -5,29 +5,29 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ContentFinderWPFApp"
         mc:Ignorable="d"
-        Title="CMS Content Finder(Murali)" Height="630.252" Width="862.155" Closing="main_Closing" Icon="C:\ContentFinderWPFApp\ContentFinderWPFApp\Search.ico">
+        Title="CMS Content Finder(Murali)" Height="630.252" Width="535.996" Closing="main_Closing" Icon="C:\ContentFinderWPFApp\ContentFinderWPFApp\Search.ico">
     <DockPanel>
-        <Grid HorizontalAlignment="Stretch" Width="737" Height="552" VerticalAlignment="Stretch" Margin="0,25">
+        <Grid HorizontalAlignment="Stretch" Width="725" Height="552" VerticalAlignment="Stretch" Margin="0,25">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="98*"/>
                 <ColumnDefinition Width="195*"/>
                 <ColumnDefinition Width="287*"/>
                 <ColumnDefinition Width="147*"/>
             </Grid.ColumnDefinitions>
-            <ListBox x:Name="listBoxURL" HorizontalAlignment="Stretch" Margin="6,211,112.333,6" VerticalAlignment="Stretch" Width="179" Grid.ColumnSpan="2"/>
-            <ListBox x:Name="listBoxFound" Margin="256.667,211,20.333,6" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.ColumnSpan="2"/>
+            <ListBox x:Name="listBoxURL" HorizontalAlignment="Stretch" Margin="51,72,-80.667,145" VerticalAlignment="Stretch" Width="179" Grid.Column="3"/>
+            <ListBox x:Name="listBoxFound" Margin="39.333,217,71.667,10" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
             <Label Content="Column containing Data:" HorizontalAlignment="Stretch" Margin="23,93,125.333,426" VerticalAlignment="Stretch" Width="149" Grid.ColumnSpan="2"/>
-            <TextBox x:Name="txtColumn" HorizontalAlignment="Stretch" Height="23" Margin="97.667,95,57.333,434" TextWrapping="Wrap" Text="5" VerticalAlignment="Stretch" Width="43" Grid.Column="1" TextChanged="txtColumn_TextChanged"/>
+            <TextBox x:Name="txtColumn" HorizontalAlignment="Stretch" Height="23" Margin="98,95,58.667,434" TextWrapping="Wrap" Text="5" VerticalAlignment="Stretch" Grid.Column="1" TextChanged="txtColumn_TextChanged"/>
             <Label Content="File Path:" HorizontalAlignment="Stretch" Margin="22,15,20.333,507" VerticalAlignment="Stretch" Width="57"/>
-            <TextBox x:Name="txtPath" HorizontalAlignment="Stretch" Height="23" Margin="85,17,155,0" TextWrapping="Wrap" Text="C:\ContentFinderWPFApp\ContentFinderWPFApp\data\Data.xlsx" VerticalAlignment="Top" TextChanged="txtPath_TextChanged" Grid.ColumnSpan="3"/>
+            <TextBox x:Name="txtPath" HorizontalAlignment="Stretch" Height="23" Margin="85,17,121.667,0" TextWrapping="Wrap" Text="C:\ContentFinderWPFApp\ContentFinderWPFApp\data\Data.xlsx" VerticalAlignment="Top" TextChanged="txtPath_TextChanged" Grid.ColumnSpan="3"/>
             <Label Content="Sheet number:" HorizontalAlignment="Stretch" Margin="23,54,185.333,471" VerticalAlignment="Stretch" Width="89" Grid.ColumnSpan="2"/>
             <TextBox x:Name="txtSheet" HorizontalAlignment="Stretch" Height="23" Margin="96.667,58,58.333,471" TextWrapping="Wrap" Text="2" VerticalAlignment="Stretch" Grid.Column="1" TextChanged="txtSheet_TextChanged"/>
-            <Label Content="Urls  Searched" HorizontalAlignment="Stretch" Margin="9,185,110.333,0" VerticalAlignment="Top" RenderTransformOrigin="-0.165,1.872" Width="178" HorizontalContentAlignment="Center" Grid.ColumnSpan="2"/>
-            <Label Content="Found IDs" HorizontalAlignment="Stretch" Margin="248.667,175,18.333,341" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" Grid.Column="2" Grid.ColumnSpan="2"/>
+            <Label Content="Urls  Searched" HorizontalAlignment="Stretch" Margin="51,27,-79.667,0" VerticalAlignment="Top" RenderTransformOrigin="-0.165,1.872" Width="178" HorizontalContentAlignment="Center" Grid.Column="3"/>
+            <Label Content="Found IDs" HorizontalAlignment="Stretch" Margin="11.667,181,106,335" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" Grid.Column="2"/>
             <Label Content="Column Containing IDs:" HorizontalAlignment="Stretch" Margin="24,131,137.333,0" VerticalAlignment="Top" Width="136" Grid.ColumnSpan="2"/>
-            <TextBox Name="txtIds" Grid.Column="1" HorizontalAlignment="Stretch" Height="23" Margin="97.667,134,57.333,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="43"/>
-            <Button Content="..." Grid.Column="2" HorizontalAlignment="Left" Margin="147.667,17,0,0" VerticalAlignment="Top" Width="24" RenderTransformOrigin="0.107,1.045" Click="Button_Click" Height="23"/>
-            <Button Content="Load Excel Data &#xA; and Match" Grid.Column="2" HorizontalAlignment="Left" Margin="5.667,58,0,0" VerticalAlignment="Top" Width="164" Height="100" Click="Button_LoadAndRun_Click">
+            <TextBox Name="txtIds" Grid.Column="1" HorizontalAlignment="Stretch" Height="23" Margin="98,134,58.667,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top"/>
+            <Button Content="..." Grid.Column="2" HorizontalAlignment="Left" Margin="183.333,17,0,0" VerticalAlignment="Top" Width="24" RenderTransformOrigin="0.107,1.045" Click="Button_Click" Height="23"/>
+            <Button Content="Load Excel Data &#xA; and Match" Grid.Column="2" HorizontalAlignment="Left" Margin="47.333,58,0,0" VerticalAlignment="Top" Width="164" Height="100" Click="Button_LoadAndRun_Click">
                 <Button.Background>
                     <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
                         <GradientStop Color="#FFF3F3F3" Offset="0"/>
@@ -38,8 +38,8 @@
                     </LinearGradientBrush>
                 </Button.Background>
             </Button>
-            <ListBox x:Name="listBoxLoadedIds" Grid.ColumnSpan="2" Grid.Column="1" HorizontalAlignment="Left" Height="335" Margin="96.667,211,0,0" VerticalAlignment="Top" Width="353"/>
-            <Label Grid.Column="1" HorizontalAlignment="Left" Margin="123.667,175,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="285">
+            <ListBox x:Name="listBoxLoadedIds" Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="325" Margin="10,217,0,0" VerticalAlignment="Top" Width="299"/>
+            <Label HorizontalAlignment="Left" Margin="24,175,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="285">
                 <Label Content="Ids and content present in Excel" Width="280" HorizontalContentAlignment="Center"/>
             </Label>
 
